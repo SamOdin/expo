@@ -9,6 +9,10 @@
     "jade": "~0.28.2",
     "colors": "~0.6.0-1"
   },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
   "licenses": [
     {
       "type": "BSD-3-Clause",
