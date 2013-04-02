@@ -1,0 +1,6 @@
+[submodule "src/dojo2-teststack"]
+	path = src/dojo2-teststack
+	url = https://github.com/kitsonk/dojo2-teststack.git
+[submodule "src/d2-proto"]
+	path = src/d2-proto
+	url = https://github.com/kitsonk/d2-proto.git

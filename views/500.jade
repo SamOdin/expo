@@ -1,0 +1,13 @@
+doctype 5
+html
+  head
+    title 500 - Internal Error
+    link(rel="stylesheet", type="text/css", href="/css/expo.css", media="all")
+  body
+    h1 500 - Internal Error
+    h2 #{error.name}: #{error.message}
+    p An internal error has occured with the followin call stack:
+    pre= error.stack
+    br
+    hr
+    address Powered by NodeJS, express, jade, stylus and Dojo Toolkit
